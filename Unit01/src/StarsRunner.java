@@ -15,29 +15,8 @@ public class StarsRunner
       //instantiate a StarsAndStripes object
       StarsAndStripes bruh = new StarsAndStripes();
       //call the methods needed to make the patterns on the word document
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwoBlankLines();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
-      bruh.printTwentyStars();
-      bruh.printTwentyDashes();
       bruh.printASmallBox();
+      bruh.printTwoBlankLines();
       bruh.printABigBox();
    }
 }
